@@ -36,8 +36,7 @@ pip install lxml
 
 ```yaml
 SFtime:
-  group1:
-    group_id: ''
+  group_id:
     name: ''
     url: ''
 ```
@@ -46,12 +45,10 @@ SFtime:
 
 ```yaml
 SFtime:
-  group1:
-    group_id: '11111111' #群号
+  1111111111111:   #群号
     name: '这是作者的名字'
     url: 'https://book.sfacg.com/Novel/5555555' #这是作品的网页链接
-  group2:
-    group_id: '2222222'
+  22222222222222:
     name: '张三'
     url: 'https://book.sfacg.com/Novel/6666666'
 ```
